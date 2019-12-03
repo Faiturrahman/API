@@ -1,31 +1,31 @@
 {
   "result": [
 	{
-	"Nama" : "NADEO ARGA WINATA",
-	"TanggalLahir" : "09 Maret 1997",
-	"TempatLahir" : "Kediri, Jawa Timur",
-	"Klub" : "Borneo FC",
-	"NoPunggung" : 12,
-	"Posisi" : "Penjaga Gawang",
-	"Foto" : "https://www.pssi.org/files/uploads/player/photo_action/2019/Nov/21/5dd697132f739/nadeo-320x_.png?token=2118c4ff6145dfe76f0ceaf27888324f"
+	"Nama": "NADEO ARGA WINATA",
+	"TanggalLahir": "09 Maret 1997",
+	"TempatLahir": "Kediri, Jawa Timur",
+	"Klub": "Borneo FC",
+	"NoPunggung": 12,
+	"Posisi": "Penjaga Gawang",
+	"Foto": "https://www.pssi.org/files/uploads/player/photo_action/2019/Nov/21/5dd697132f739/nadeo-320x_.png?token=2118c4ff6145dfe76f0ceaf27888324f"
 	},
 	{
-	"Nama" : "ASNAWI MANGKUALAM BAHAR",
-	"TanggalLahir" : "04 Oktober 1999",
-	"TempatLahir" : "Makassar",
-	"Klub" : "PSM Makassar",
-	"NoPunggung" : 14,
-	"Posisi" : "Pemain Belakang",
-	"Foto" : "https://www.pssi.org/files/uploads/player/photo_action/2019/Nov/21/5dd68f0c7d57b/asnawi-320x_.png?token=6a91484782b37d644dac146e3acccd01"
+	"Nama": "ASNAWI MANGKUALAM BAHAR",
+	"TanggalLahir": "04 Oktober 1999",
+	"TempatLahir": "Makassar",
+	"Klub": "PSM Makassar",
+	"NoPunggung": 14,
+	"Posisi": "Pemain Belakang",
+	"Foto": "https://www.pssi.org/files/uploads/player/photo_action/2019/Nov/21/5dd68f0c7d57b/asnawi-320x_.png?token=6a91484782b37d644dac146e3acccd01"
    	},
    	{
-	"Nama" : "SYAHRIAN ABIMANYU",
-	"TanggalLahir" : "25 April 1999",
-	"TempatLahir" : "Banyumas",
-	"Klub" : "Madura United",
-	"NoPunggung" : 17,
-	"Posisi" : "Pemain Tengah",
-	"Foto" : "https://www.pssi.org/files/uploads/player/photo_action/2019/Nov/21/5dd6980919354/abimanyu-320x_.png?token=b39cc06c7688ef7db1b1ba773be3a4ec"
+	"Nama": "SYAHRIAN ABIMANYU",
+	"TanggalLahir": "25 April 1999",
+	"TempatLahir": "Banyumas",
+	"Klub": "Madura United",
+	"NoPunggung": 17,
+	"Posisi": "Pemain Tengah",
+	"Foto": "https://www.pssi.org/files/uploads/player/photo_action/2019/Nov/21/5dd6980919354/abimanyu-320x_.png?token=b39cc06c7688ef7db1b1ba773be3a4ec"
 	},
     ]
 }
